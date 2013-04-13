@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/elitog/Dropbox/?????/410/??/.metadata/.plugins/org.eclipse.jdt.core
+1772084343.index
+2818461320.index
+1453207739.index
